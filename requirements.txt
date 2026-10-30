@@ -1,0 +1,8 @@
+python-dotenv>=1.0
+pyttsx3>=2.90
+SpeechRecognition>=3.10
+PyAudio>=0.2.14
+requests>=2.31
+anthropic>=0.40
+streamlit>=1.35
+pytest>=8.0
